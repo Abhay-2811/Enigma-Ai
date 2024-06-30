@@ -28,7 +28,7 @@ export default function Home() {
             Made with ❤️ by{" "}
             <a href="https://github.com/Abhay-2811" target='_blank' >@Abhay-2811</a>
           </p>
-          <a href="https://github.com/Abhay-2811/Enigmai" target='_blank' className="flex items-center space-x-2 border p-2 rounded-full my-4">
+          <a href="https://github.com/Abhay-2811/Enigma-Ai" target='_blank' className="flex items-center space-x-2 border p-2 rounded-full my-4">
             <svg
               className="w-6 h-6 text-white"
               aria-hidden="true"
